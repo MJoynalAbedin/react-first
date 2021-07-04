@@ -8,8 +8,8 @@ const Chart = () => {
                 data = {{
                     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
                     datasets: [{
-                        label: '# of Votes',
-                        data: [12, 19, 3, 5, 2, 3],
+                        label: 'Graph of Revire',
+                        data: [3,6, 7, 8, 12, 15],
                         backgroundColor: [
                         'rgba(255, 99, 132, 0.5)',
                         'rgba(54, 162, 235, 0.5)',
